@@ -1,1 +1,3 @@
 # aplikasi-today
+
+$pnpm i
